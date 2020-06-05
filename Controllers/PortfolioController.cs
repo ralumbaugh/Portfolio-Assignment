@@ -1,23 +1,23 @@
 using Microsoft.AspNetCore.Mvc;
 namespace Portfolio1.Controllers
 {
-    public class RoutingController : Controller
+    public class PortfolioController : Controller
     {
         [HttpGet("")]
-        public string Index()
+        public ViewResult Index()
         {
-            return "This is my index!";
+            return View();
         }
 
         [HttpGet("projects")]
-        public string Projects()
+        public ViewResult Projects()
         {
-            return "These are my projects";
+            return View();
         }
         [HttpGet("contact")]
-        public string Contact()
+        public ViewResult Contact()
         {
-            return "This is my Contact!";
+            return View();
         }
 
     }

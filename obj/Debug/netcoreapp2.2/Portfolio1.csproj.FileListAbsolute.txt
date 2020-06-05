@@ -12,3 +12,14 @@ C:\Users\Ryan\CSharpStack\Portfolio1\obj\Debug\netcoreapp2.2\Portfolio1.Assembly
 C:\Users\Ryan\CSharpStack\Portfolio1\obj\Debug\netcoreapp2.2\Portfolio1.RazorTargetAssemblyInfo.cache
 C:\Users\Ryan\CSharpStack\Portfolio1\obj\Debug\netcoreapp2.2\Portfolio1.dll
 C:\Users\Ryan\CSharpStack\Portfolio1\obj\Debug\netcoreapp2.2\Portfolio1.pdb
+C:\Users\Ryan\CSharpStack\Portfolio1\bin\Debug\netcoreapp2.2\Portfolio1.Views.dll
+C:\Users\Ryan\CSharpStack\Portfolio1\bin\Debug\netcoreapp2.2\Portfolio1.Views.pdb
+C:\Users\Ryan\CSharpStack\Portfolio1\obj\Debug\netcoreapp2.2\Portfolio1.TagHelpers.input.cache
+C:\Users\Ryan\CSharpStack\Portfolio1\obj\Debug\netcoreapp2.2\Portfolio1.TagHelpers.output.cache
+C:\Users\Ryan\CSharpStack\Portfolio1\obj\Debug\netcoreapp2.2\Portfolio1.RazorCoreGenerate.cache
+C:\Users\Ryan\CSharpStack\Portfolio1\obj\Debug\netcoreapp2.2\Razor\Views\Portfolio\Contact.g.cshtml.cs
+C:\Users\Ryan\CSharpStack\Portfolio1\obj\Debug\netcoreapp2.2\Razor\Views\Portfolio\Index.g.cshtml.cs
+C:\Users\Ryan\CSharpStack\Portfolio1\obj\Debug\netcoreapp2.2\Razor\Views\Portfolio\Projects.g.cshtml.cs
+C:\Users\Ryan\CSharpStack\Portfolio1\obj\Debug\netcoreapp2.2\Portfolio1.RazorTargetAssemblyInfo.cs
+C:\Users\Ryan\CSharpStack\Portfolio1\obj\Debug\netcoreapp2.2\Portfolio1.Views.pdb
+C:\Users\Ryan\CSharpStack\Portfolio1\obj\Debug\netcoreapp2.2\Portfolio1.csproj.CopyComplete

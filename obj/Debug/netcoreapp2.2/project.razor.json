@@ -2959,6 +2959,22 @@
     "CSharpLanguageVersion": 703
   },
   "RootNamespace": "Portfolio1",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\Ryan\\CSharpStack\\Portfolio1\\Views\\Portfolio\\Contact.cshtml",
+      "TargetPath": "Views\\Portfolio\\Contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ryan\\CSharpStack\\Portfolio1\\Views\\Portfolio\\Projects.cshtml",
+      "TargetPath": "Views\\Portfolio\\Projects.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ryan\\CSharpStack\\Portfolio1\\Views\\Portfolio\\Index.cshtml",
+      "TargetPath": "Views\\Portfolio\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
